@@ -1,0 +1,137 @@
+body {
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  background-color: rgb(32, 32, 32);
+  color: #f8faf9;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 100px;
+}
+
+#natureTitle {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  /* border: 3px solid #a8e6f3;
+  border-radius: 10px;
+  background-color: #697d45; */
+  /* color: #bbe7ff; */
+  margin-bottom: 10px; 
+  background: -webkit-linear-gradient(#4585e6, #435b17);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#imgNatureRow1 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+#imgNatureRow2 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.nature {
+  margin-bottom: 100px;
+}
+
+
+#animalsTitle {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  /* border: 3px solid #ba6a17;
+  border-radius: 10px;
+  background-color: #532975; */
+  background: -webkit-linear-gradient(#7b51e2, #dc8f2e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 10px; 
+}
+
+#imgAnimalsRow1 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+#imgAnimalsRow2 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.animals {
+  margin-bottom: 100px;
+}
+
+
+#desertTitle {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  /* border: 3px solid #db8750;
+  border-radius: 10px;
+  background-color: #3f2823; */
+  background: -webkit-linear-gradient(#facf96, #8c4c2f);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 10px; 
+}
+
+#imgDesertRow1 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+#imgDesertRow2 {
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 400px;
+  height: 350px;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* .desert {
+  margin-bottom: 100px;
+} */
